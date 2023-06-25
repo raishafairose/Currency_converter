@@ -29,13 +29,3 @@ if converted_amount:
     print(f"{amount} {from_cur} is equal to {converted_amount} {to_cur}")
 else:
     print("Conversion failed. Please try again.")
-
-
-
-
-
-
-
-
-
-
